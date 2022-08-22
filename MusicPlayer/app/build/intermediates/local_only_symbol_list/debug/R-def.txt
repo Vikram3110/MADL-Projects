@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon
+drawable image
+drawable image1
+drawable logo
+drawable next
+drawable pause
+drawable play
+drawable previous
+id icon
+id imageView
+id listView
+id next
+id play
+id previous
+id textView
+layout activity_home_page
+layout activity_main
+layout activity_play_song
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MusicPlayer
+xml backup_rules
+xml data_extraction_rules

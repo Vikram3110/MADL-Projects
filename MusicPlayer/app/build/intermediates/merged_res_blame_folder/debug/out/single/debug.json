@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\layout_activity_play_song.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\layout\\activity_play_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_pause.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_next.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-19:/layout_activity_play_song.xml.flat",
+        "source": "com.example.musicplayer.app-main-21:/layout/activity_play_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-pngs-14:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_play.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_image.jpg.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_previous.xml.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_image1.jpg.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\image1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vikram\\.gradle\\daemon\\7.3.3\\com.example.musicplayer.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]
